@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunnyTrail", "SunnyTrail\SunnyTrail.csproj", "{4D09A3F1-B2A3-4CF6-B129-3B7AA8572162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunnyTrail.Tests", "SunnyTrail.Tests\SunnyTrail.Tests.csproj", "{F2307F2C-56BE-4ACD-98DD-63E7C7C31DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D09A3F1-B2A3-4CF6-B129-3B7AA8572162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D09A3F1-B2A3-4CF6-B129-3B7AA8572162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D09A3F1-B2A3-4CF6-B129-3B7AA8572162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D09A3F1-B2A3-4CF6-B129-3B7AA8572162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2307F2C-56BE-4ACD-98DD-63E7C7C31DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2307F2C-56BE-4ACD-98DD-63E7C7C31DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2307F2C-56BE-4ACD-98DD-63E7C7C31DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2307F2C-56BE-4ACD-98DD-63E7C7C31DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

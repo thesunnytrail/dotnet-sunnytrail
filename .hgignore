@@ -1,0 +1,4 @@
+relre:ReSharper
+relre:/obj/
+relre:/bin/
+relre:\.suo
